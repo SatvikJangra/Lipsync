@@ -1,1 +1,1 @@
-Lip reading using Dep Learning
+Lip reading using Deep Learning
